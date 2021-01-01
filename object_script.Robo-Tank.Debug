@@ -1,0 +1,10 @@
+debug/battlefield.o
+debug/main.o
+debug/paint.o
+debug/tank.o
+debug/wall.o
+debug/qrc_images_list.o
+debug/moc_battlefield.o
+debug/moc_paint.o
+debug/moc_tank.o
+debug/moc_wall.o

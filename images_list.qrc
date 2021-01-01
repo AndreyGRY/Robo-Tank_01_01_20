@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/examp.PNG</file>
+        <file>images/ground.png</file>
+        <file>images/p_tank_0.png</file>
+        <file>images/p_tank_90.png</file>
+        <file>images/p_tank_180.png</file>
+        <file>images/p_tank_270.png</file>
+        <file>images/tank.png</file>
+        <file>images/target.png</file>
+        <file>images/wall.png</file>
+        <file>images/e_tank_0.png</file>
+        <file>images/e_tank_90.png</file>
+        <file>images/e_tank_180.png</file>
+        <file>images/e_tank_270.png</file>
+        <file>images/fire1_0.png</file>
+        <file>images/fire1_90.png</file>
+        <file>images/fire1_180.png</file>
+        <file>images/fire1_270.png</file>
+        <file>images/fire2_0.png</file>
+        <file>images/fire2_90.png</file>
+        <file>images/fire2_180.png</file>
+        <file>images/fire2_270.png</file>
+        <file>images/shell.png</file>
+        <file>images/tank_destroyed.png</file>
+        <file>images/wall_destroyed.png</file>
+    </qresource>
+</RCC>

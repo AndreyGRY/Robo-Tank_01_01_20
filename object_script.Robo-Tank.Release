@@ -1,0 +1,10 @@
+release/battlefield.o
+release/main.o
+release/paint.o
+release/tank.o
+release/wall.o
+release/qrc_images_list.o
+release/moc_battlefield.o
+release/moc_paint.o
+release/moc_tank.o
+release/moc_wall.o
